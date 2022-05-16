@@ -1,0 +1,26 @@
+
+.topdiv{
+    width: 100%;
+    border: 2px solid black;
+}
+#inputXML{
+        width: 1729px;
+        height: 198px;
+        }
+.middlediv{
+    width: 100%;
+    border: 2px solid black;
+}
+.bottomdiv{
+    width: 100%;
+    border: 2px solid black;
+    /*border-left: none;*/
+}
+pre {
+    white-space: pre-wrap;       /* css-3 */
+    white-space: -moz-pre-wrap;  /* Mozilla, с 1999 года*/
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+    padding: 5px;
+    font-size: 15px;
+}
